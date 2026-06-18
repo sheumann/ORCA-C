@@ -5,7 +5,7 @@ resource rVersion(1) {
       2,				/* Major revision */
       3,				/* Minor revision */
       0,				/* Bug version */
-      development,			/* Release stage */
+      beta,				/* Release stage */
       1,				/* Non-final release # */
       },
    verUS,				/* Region code */
